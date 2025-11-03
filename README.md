@@ -13,6 +13,22 @@ This project evaluates the causal impact of a sales bonus program on profit marg
 
 ---
 
+## 📊 **Interactive Dashboards**
+
+Explore the analysis interactively:
+
+- **Sales Bonus Dashboard:** https://bmdz.shinyapps.io/Sales_Bonus_Dashboard/
+- **Model Analysis Dashboard (Enhanced):** https://bmdz.shinyapps.io/Model_dash/
+
+Both dashboards feature:
+- ✅ Color-coded results (Green/Blue/Orange)
+- ✅ All 3 regression models
+- ✅ Mediation breakdown
+- ✅ Diagnostic tests
+- ✅ Heterogeneity analysis
+
+---
+
 ## 1. Research Question & Design
 
 ### Question
@@ -244,7 +260,11 @@ The **41.7% attenuation** (from 4.447 to 1.772) indicates substantial mediation.
 - **Packages:** tidyverse, broom, DT, shiny, readxl
 - **Analysis Scripts:** 5 modular R scripts
 - **Dashboard:** Shiny interactive visualization with color-coded results
-- **Deployment:** ShinyApps.io (https://bmdz.shinyapps.io/Model_dash/)
+- **Deployment:** ShinyApps.io
+
+**Dashboard Links:**
+- Sales Bonus Dashboard: https://bmdz.shinyapps.io/Sales_Bonus_Dashboard/
+- Model Analysis Dashboard: https://bmdz.shinyapps.io/Model_dash/
 
 ### 7.2 Reproducibility
 
@@ -340,10 +360,11 @@ Angrist, J. D., & Pischke, J.-S. (2008). *Mostly Harmless Econometrics: An Empir
 ## Contact & Repository
 
 **Analysis Date:** November 3, 2025
-**Author:** [Your Name]
-**Repository:** GitHub
-**Dashboard:** https://bmdz.shinyapps.io/Model_dash/
-**Code Files:** 5 R scripts + 1 Shiny app
+**Author:** BMDZ
+**Repository:** https://github.com/BMDZ/Sales-Bonus-Analysis
+**Dashboards:** 
+- https://bmdz.shinyapps.io/Sales_Bonus_Dashboard/
+- https://bmdz.shinyapps.io/Model_dash/
 
 ---
 
