@@ -1,0 +1,5 @@
+"Pathway","Estimate","Unit","Interpretation"
+"Total Effect",4.447,"pp","Total bonus impact on profit margins"
+"Direct Effect (c')",1.772,"pp","Margin improvement per product"
+"Indirect Effect (c-c')",2.675,"pp","Effect via product mix shift"
+"Mediation %",60.2,"%","% of total effect through product mix"

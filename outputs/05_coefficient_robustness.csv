@@ -1,0 +1,4 @@
+"Specification","Coefficient","Std_Error","T_Statistic","P_Value","Significance"
+"Model 1: Raw",4.447,0.597,7.452,0,"***"
+"Model 2: Product Controls",1.772,0.56,3.166,0.0016,"**"
+"Model 3: Store FE",1.163,0.556,2.091,0.0367,"*"

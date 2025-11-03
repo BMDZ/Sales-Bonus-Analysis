@@ -1,0 +1,13 @@
+"Model","term","estimate","std.error","statistic","p.value"
+"Model 1: Raw Effect","(Intercept)",12.5997,0.4384,28.738,0
+"Model 1: Raw Effect","time",4.4473,0.5968,7.452,0
+"Model 2: Product Controls","(Intercept)",6.971,0.7413,9.404,0
+"Model 2: Product Controls","time",1.7718,0.5596,3.166,0.0016
+"Model 2: Product Controls","device",3.8225,0.84,4.551,0
+"Model 2: Product Controls","insurance",9.6321,0.8536,11.284,0
+"Model 2: Product Controls","accessory",17.9172,1.0845,16.521,0
+"Model 3: Store FE (first 5 terms)","(Intercept)",8.3416,1.1002,7.582,0
+"Model 3: Store FE (first 5 terms)","time",1.1628,0.556,2.091,0.0367
+"Model 3: Store FE (first 5 terms)","device",4.5197,0.8319,5.433,0
+"Model 3: Store FE (first 5 terms)","insurance",10.9095,0.8581,12.714,0
+"Model 3: Store FE (first 5 terms)","accessory",19.348,1.0893,17.761,0
